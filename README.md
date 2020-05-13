@@ -1,4 +1,4 @@
-# Blockchain Developer Nanodegree project 3
+# Blockchain Developer Nanodegree Project 3
 
 ## Project write-up - UML
 All the uml diagrams are in the diagrams folder.
