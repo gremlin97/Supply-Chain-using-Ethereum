@@ -1,6 +1,6 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
 const infura = "https://rinkeby.infura.io/v3/10c3a4d61a6b47f39ae4e83a36c050b0";
-const mnemonic = <Insert mnemonic here>;
+const mnemonic = "<Insert your metamask mnemonic here>";
 
 module.exports = {
   networks: {
