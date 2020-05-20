@@ -1,4 +1,4 @@
-# Blockchain Developer Nanodegree Project 3
+#Supply Chain using Ethereum
 
 ## Project write-up - UML
 All the uml diagrams are in the diagrams folder.
