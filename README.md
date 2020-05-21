@@ -21,6 +21,9 @@ https://rinkeby.etherscan.io/tx/0x31842db9d92500f0a735fbc338c5fe59031d0a33d2e3b5
 
 ## Transaction ID and contract address / details
 
+
+```
+
 Compiling your contracts...
 ===========================
 > Everything is up to date, there is nothing to compile.
@@ -247,6 +250,7 @@ Summary
 > Total deployments:   6
 > Final cost:          0.05338704 ETH
 
+```
 
 
 ## Getting Started
